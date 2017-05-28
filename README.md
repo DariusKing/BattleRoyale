@@ -1,2 +1,2 @@
-# BattleRoyale
-[Battle Royale] is a Bukkit-based Minecraft server plugin.
+# Battle Royale
+**[*Battle Royale*]** is a `Bukkit`-based `Minecraft` server plugin.
