@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将类型“com.klnsyf.battleroyale.Main”重命名为“BattleRoyale”&#x0D;&#x0A;－ 原始项目：“Battle_Royale”&#x0D;&#x0A;－ 原始元素：“com.klnsyf.battleroyale.Main”&#x0D;&#x0A;－ 重命名的元素：“com.klnsyf.battleroyale.BattleRoyale”&#x0D;&#x0A;－ 更新对已重构元素的引用&#x0D;&#x0A;－ 更新注释和字符串中出现的文本" description="重命名类型“Main”" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.klnsyf.battleroyale{Main.java[Main" matchStrategy="1" name="BattleRoyale" qualified="false" references="true" similarDeclarations="false" stamp="1507033555086" textual="false" version="1.0"/>
+</session>

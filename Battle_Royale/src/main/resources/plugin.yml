@@ -1,0 +1,19 @@
+name: BattleRoyale
+version: 0.0.1
+load: POSTWORLD
+author: Klnsyf
+website: https://github.com/klnsyf/BattleRoyale
+main: com.klnsyf.battleroyale.BattleRoyale
+database: false
+loadbefore: [BattleRoyaleKit]
+commands:
+  br:
+    description: Main Command
+    aliases: [battleroyale, battle_royale]
+    permission: battleroyale.br
+permissions:
+  battleroyale.*:
+    children:
+      battleroyale.br: true
+  battleroyale.br:
+    default: op
